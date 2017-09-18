@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea1Progra/Evaluador.cpp
+Evaluador.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea1Progra/Evaluador.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea1Progra/Evaluador.h
+iostream
+-
+stack
+-
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea1Progra/main.cpp
+Evaluador.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea1Progra/Evaluador.h
+iostream
+-
+
